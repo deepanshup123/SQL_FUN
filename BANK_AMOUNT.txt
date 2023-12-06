@@ -1,0 +1,23 @@
+
+
+<START>
+
+Step 1 --> Take Input Amount = 10000
+
+Step 2 --> Check Input is Greater than or Less than From 10000.
+
+Step 3 --> If Amount Greater than 10000
+	   Interest = Amount * (7/100)
+	   Amount = Amount + Interset
+
+Step 4 --> If Amount Less than 10000
+	   Interest = Amount * (5/100)
+	   Amount = Amount + Interset
+
+Step 5 --> We deduct 2% as Goverment TAX
+	   TAX = Amount * (2/100);
+	   Amount = Amount - TAX
+
+Step 6 --> Print Amount After One Year you Get
+
+<STOP>

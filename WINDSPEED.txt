@@ -1,0 +1,20 @@
+<START>
+
+STEP 1 -->  Take Input WindSpeed(MPH)
+
+STEP 2 --> If WindSpeed <= 25
+		display "Not a Strong Wind"
+
+	   Else If WindSpeed <= 39 or WindSpeed > 25
+		display "Strong Wind"
+
+	   Else If WindSpeed <= 55 or WindSpeed > 39
+		display "Gale"
+
+	   Else If WindSpeed <= 72 or WindSpeed > 55
+		display "Whole Gale"
+
+	   Else 
+		display "Hurricane"
+
+<END>
